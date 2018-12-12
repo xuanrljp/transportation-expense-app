@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "TransportationExpenseApp",
+    "packageName": "com.swalloworkstudio.tea",
+    "packageFolder": "com/swalloworkstudio/tea",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "session",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "ja",
+    "languages": [
+      "en",
+      "ja"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "rememberMeKey": "f478c456a7f298f8865bfde890c5e78f0311a09d652fbf80d04ae458777a83d99d9a695ca84b44281d002d7788f1d07a1c86",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "xuanrljp",
+  "repository-name": "transportation-expense-app"
+}
